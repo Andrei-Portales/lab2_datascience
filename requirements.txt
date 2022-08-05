@@ -1,0 +1,7 @@
+pandas
+seaborn
+quickda
+matplotlib
+pandas-profiling
+prophet
+statsmodels
